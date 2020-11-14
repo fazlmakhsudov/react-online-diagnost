@@ -12,6 +12,7 @@ export default function Home(props) {
             <Banner />
             <Section2 />
             <Agileits />
+            Faafafdfasf f dsafdsa fsd
             <Blog />
             <Testemonials />
             <Footer />
